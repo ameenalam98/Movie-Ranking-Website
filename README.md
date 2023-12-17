@@ -9,7 +9,7 @@ This repository contains a simple and personalized Movie Ranking Website created
 
 ## Demo
 
-You can view the live demo of the Movie Ranking Website [here]([#insert-link-to-demo](https://ameenalam98.github.io/Movie-Ranking-Website/)).
+You can view the live demo of the Movie Ranking Website [here](https://ameenalam98.github.io/Movie-Ranking-Website/).
 
 ## HTML Elements Used
 
